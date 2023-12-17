@@ -4,6 +4,9 @@
 
 OCTANET_DECEMBER_TASK2 is a to-do list project designed to help you manage tasks efficiently. Organize, prioritize, and track your work seamlessly.
 
+![Screenshot 2023-12-17 164231](https://github.com/the-lasya-projects/OCTANET_DECEMBER_TASK2/assets/142709321/719cc8a1-4716-406c-9cb0-77720f303abf)
+
+
 ## Features
 
 - **Task Management:** Create, edit, and delete tasks.
